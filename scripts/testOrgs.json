@@ -1,0 +1,22 @@
+[
+  {
+    "currencyType": "testUSDC",
+    "name": "Fairmint",
+    "symbol": "FAIR",
+    "revenueCommitmentBasisPoints": "1000",
+    "investmentReserveBasisPoints": "1000",
+    "buySlopeNum": "1",
+    "buySlopeDen": "1000000000000000000000000000000000",
+    "initGoal": "15000000000000000000000",
+    "initReserve": "15000000000000000000000",
+    "autoBurn": false,
+    "feeBasisPoints": "0",
+    "minInvestment": "100000000",
+    "openUntilAtLeast": "4725712652"
+  },
+  {
+    "currencyType": "testDAI",
+    "name": "Hardly Difficult",
+    "symbol": "HDY"
+  }
+]

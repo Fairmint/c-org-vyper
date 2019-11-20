@@ -1,0 +1,12 @@
+node_modules
+/build/
+/package-lock.json
+
+.zos.session
+contracts_development.json
+.directory
+.privateKey
+.npmrc
+/c-org-abi/abi.json
+/c-org-abi/bytecode.json
+/c-org-abi/static_bytecode.json
